@@ -1,0 +1,11 @@
+﻿Welcome to SAM online flower shop read me file, you’ll find the guidelines with which you’ll run the application successfully.
+
+*Admin:
+1-Copy the tomcat-users.xml which attached with the uploaded files to your conf folder that is located under the installation directory of your tomcat server.
+2-The file has a predefined role and user name=(admin) & password=(123) , you can change them if you want.
+3-After above steps you can login to admin with the username and password.
+
+*Database:
+1-Create user=(jsp) & password=(jsp) , that will create a new schema. 
+2-Run the script which is uploaded with files into sql developer, it’ll create tables with its data and whole structure.
+
